@@ -10,11 +10,11 @@ Here are some helpful links to get you started:
 - 🐦 [Twitter](https://twitter.com/squidrouter)
 - 🤖 [Discord](https://discord.gg/squidrouter)
 - ✨ [Website](https://squidrouter.com)
-- 🔀 [Try a swap](https://app.squidrouter.com0
+- 🔀 [Try a swap](https://app.squidrouter.com)
 
 If you're looking for code examples, check out our repositories below:
 
-- Swap widget examples: https://github.com/0xsquid/widget-integrations
-- SDK examples: https://github.com/0xsquid/examples
+- 🖼 [Swap widget examples](https://github.com/0xsquid/widget-integrations)
+- 💻 [SDK examples](https://github.com/0xsquid/examples)
 
 We're excited to have you on board and can't wait to see what you create with Squid!
