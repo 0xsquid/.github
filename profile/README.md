@@ -6,10 +6,11 @@ Squid enables the swapping of any token between blockchains and unlocks access t
 
 Here are some helpful links to get you started:
 
-- ✨ [Website](https://squidrouter.com)
 - 📄 [Docs](https://docs.squidrouter.com)
 - 🐦 [Twitter](https://twitter.com/squidrouter)
 - 🤖 [Discord](https://discord.gg/squidrouter)
+- ✨ [Website](https://squidrouter.com)
+- 🔀 [Try a swap](https://app.squidrouter.com0
 
 If you're looking for code examples, check out our repositories below:
 
