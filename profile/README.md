@@ -1,6 +1,6 @@
 # Welcome to Squid's GitHub!
 
-Hello and welcome to Squid's GitHub page! We're thrilled that you've stopped by to learn more about our cross-chain swap and payments layer on Axelar.
+Hello and welcome to Squid's GitHub page! We're thrilled that you've stopped by to learn more about our cross-chain swap and payments layer.
 
 Squid enables the swapping of any token between blockchains and unlocks access to apps across chains in just one click. With Squid, you can build seamless user experiences that tap into cross-chain liquidity and scale to reach anyone with a crypto wallet, no matter what chain they're on.
 
